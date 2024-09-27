@@ -25,7 +25,7 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
-```
+```py
 Models.py 
 from django.db import models
 from django.contrib import admin
